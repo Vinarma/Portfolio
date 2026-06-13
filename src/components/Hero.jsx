@@ -129,7 +129,7 @@ export default function Hero() {
             <FiArrowRight className="group-hover:translate-x-0.5 transition-transform" />
           </button>
           <a
-            href={`${import.meta.env.BASE_URL}Resume Vinarma-1.pdf`}
+            href="/Resume Vinarma-1.pdf"
             download="Resume Vinarma-1.pdf"
             className="flex items-center gap-2 px-6 py-3 rounded-xl glass border border-white/10 text-sm font-medium text-white/70 hover:text-white hover-glow-white transition-all duration-200"
           >
