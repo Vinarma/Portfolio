@@ -165,7 +165,7 @@ export default function Contact() {
           className="mt-24 pt-8 border-t border-white/6 flex flex-col sm:flex-row justify-between items-center gap-4 text-xs text-white/20 font-mono"
         >
           <span>© 2026 Vinarma Jayakaran R</span>
-          <span>Full Stack Developer · Banglore, India</span>
+          <span>Full Stack Developer · Bangalore, India</span>
         </motion.div>
       </div>
     </section>

@@ -15,7 +15,7 @@ const experienceItems = [
   {
     role: 'Cybersecurity Intern',
     company: 'NTTF',
-    location: 'Banglore, India',
+    location: 'Bangalore, India',
     period: '2025 – 2026',
     desc: 'Worked in the cybersecurity domain — configured enterprise routers and switches for secure network infrastructure. Conducted login bypass assessments using Burp Suite and performed penetration testing on web applications.',
     tags: ['Networking', 'Burp Suite', 'Router Config', 'Pen Testing', 'Cybersecurity'],
@@ -24,7 +24,7 @@ const experienceItems = [
   {
     role: 'Software Developer Intern',
     company: 'RSR Technologies',
-    location: 'Banglore, India',
+    location: 'Bangalore, India',
     period: '2024 – 2025',
     desc: 'Built and maintained banking and inventory management systems. Developed core modules for transaction processing, stock tracking, and reporting dashboards using Java and MySQL.',
     tags: ['Java', 'MySQL', 'Banking Systems', 'Inventory Management'],
@@ -33,7 +33,7 @@ const experienceItems = [
   {
     role: 'Newsletter Editor',
     company: 'IFIM College',
-    location: 'Banglore, India',
+    location: 'Bangalore, India',
     period: '2025 – 2026',
     desc: 'Authored technical articles on web engineering and AI, managed publishing workflows, and coordinated with design and writing teams for quarterly issues.',
     tags: ['Technical Writing', 'Coordination', 'Publishing'],

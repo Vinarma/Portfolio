@@ -75,7 +75,7 @@ export default function Hero() {
           className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full glass border border-white/10 text-xs font-mono text-white/50 tracking-widest uppercase"
         >
           <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
-          Available for opportunities · Banglore, India
+          Available for opportunities · Bangalore, India
         </motion.div>
 
         {/* Name */}
@@ -159,7 +159,7 @@ export default function Hero() {
             { label: 'Degree', value: 'BCA' },
             { label: 'Projects', value: '5+' },
             { label: 'Tech Stack', value: '12+' },
-            { label: 'Location', value: 'Banglore' },
+            { label: 'Location', value: 'Bangalore' },
           ].map(({ label, value }) => (
             <div key={label} className="glass rounded-xl p-4 text-center border border-white/8 hover-glow-white transition-all duration-300">
               <div className="text-xl font-bold text-white">{value}</div>

@@ -56,7 +56,7 @@ export default function About() {
             </h2>
             <div className="space-y-4 text-white/50 text-base leading-relaxed">
               <p>
-                I'm a BCA graduate from Banglore with a deep interest in how software is architected — from database schemas to UI components. I enjoy the full journey of building a product.
+                I'm a BCA graduate from Bangalore with a deep interest in how software is architected — from database schemas to UI components. I enjoy the full journey of building a product.
               </p>
               <p>
                 My projects span security tooling, event platforms, and database management systems. I'm particularly excited about AI-augmented development and how it's reshaping what solo developers can ship.
